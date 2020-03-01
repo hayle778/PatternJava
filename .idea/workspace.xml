@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d18ce472-39e6-4b57-a023-fa5f3266b4f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YXR0wSv9LWj9uI8oOeyuI3fzJS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Getin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Getin" />
+      <module name="Getin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Getin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d18ce472-39e6-4b57-a023-fa5f3266b4f8" name="Default Changelist" comment="" />
+      <created>1583086732831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583086732831</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="643" height="213" key="GridCell.Tab.0.bottom" timestamp="1583094974499">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="643" height="213" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1583094974499" />
+    <state width="643" height="213" key="GridCell.Tab.0.center" timestamp="1583094974499">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="643" height="213" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1583094974499" />
+    <state width="643" height="213" key="GridCell.Tab.0.left" timestamp="1583094974498">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="643" height="213" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1583094974498" />
+    <state width="643" height="213" key="GridCell.Tab.0.right" timestamp="1583094974499">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="643" height="213" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1583094974499" />
+    <state x="762" y="173" key="search.everywhere.popup" timestamp="1583087991572">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="762" y="173" key="search.everywhere.popup/0.23.1440.826@0.23.1440.826" timestamp="1583087991572" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Getin.java</url>
+          <line>1</line>
+          <properties class="Getin" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
